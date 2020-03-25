@@ -1,0 +1,26 @@
+{
+  "name": "javascript-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool written in JavaScript",
+  "main": "index.js",
+  "bin": {
+    "cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalau6/javascript-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalau6/javascript-cli/issues"
+  },
+  "homepage": "https://github.com/dalau6/javascript-cli#readme",
+  "dependencies": {
+    "node-cli": "^0.1.0"
+  }
+}
